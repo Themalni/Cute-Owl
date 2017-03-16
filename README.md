@@ -3,5 +3,5 @@
 Live preview: <a href="https://themalni.github.io/Cute-Owl/">Cute Owl</a></p><br>
 
 <p align="center">
-<img src="https://cloud.githubusercontent.com/assets/12295765/23169174/0add7d64-f84b-11e6-8fed-64ce32c9ec15.png" width="800"  alt="Cute Owl">
+<img src="https://cloud.githubusercontent.com/assets/12295765/24021613/19a0ad08-0aa2-11e7-9c95-893dc86e8065.png" width="700"  alt="Cute Owl">
 </p>
